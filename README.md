@@ -3,7 +3,7 @@
 
 I help teams **design, build, and modernize** enterprise-grade systems using **cloud-native .NET**, with a strong focus on **scalability, reliability, and clean architecture**.
 
-- 🧠 **14+ years** building production software end-to-end  
+- 🧠 **15+ years** building production software end-to-end  
 - 🚀 **50+ projects delivered** across multiple industries  
 - ✅ Built for **mission-critical** systems: integrations, data pipelines, and operational excellence  
 - 🌐 Spanish (native) · English (bilingual)
