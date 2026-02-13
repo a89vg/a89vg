@@ -45,7 +45,7 @@ I help teams **design, build, and modernize** enterprise-grade systems using **c
 - **Observability as a feature**: logs, metrics, traces, SLO-oriented thinking
 - **Incremental modernization**: strangler patterns, safe migrations, measurable milestones
 
-## Selected case studies (generic)
+## Selected case studies
 
 - **Supply-chain microservices platform**  
   Designed a .NET microservices platform with event-driven workflows, integrating external logistics providers with robust error handling and reliability patterns.
@@ -56,9 +56,5 @@ I help teams **design, build, and modernize** enterprise-grade systems using **c
 - **Document workflow modernization**  
   Re-architected an older system into a maintainable layered design and introduced automated workflow orchestration for document lifecycle processes.
 
-## Find me
-- Website: https://www.a89vg.net
-
-
 ## Let’s build something reliable
-If you want to discuss **architecture**, **integrations**, or **modernization strategy**, open a GitHub Discussion/issue on a relevant repo.
+If you want to discuss **architecture**, **integrations**, or **modernization strategy**, find me at https://www.a89vg.net
